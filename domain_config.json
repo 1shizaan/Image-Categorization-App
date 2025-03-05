@@ -1,0 +1,132 @@
+{
+    "Technology": {
+        "descriptions": [
+            "a screenshot of a computer interface",
+            "software application",
+            "tech product"
+        ],
+        "keywords": [
+            "code",
+            "programming",
+            "tech",
+            "software"
+        ]
+    },
+    "Finance": {
+        "descriptions": [
+            "a screenshot of financial dashboard",
+            "banking interface",
+            "stock market"
+        ],
+        "keywords": [
+            "bank",
+            "money",
+            "finance",
+            "trading"
+        ]
+    },
+    "Health": {
+        "descriptions": [
+            "medical application",
+            "health tracking",
+            "wellness interface"
+        ],
+        "keywords": [
+            "health",
+            "medical",
+            "fitness",
+            "doctor"
+        ]
+    },
+    "Education": {
+        "descriptions": [
+            "online learning platform",
+            "educational website",
+            "study materials"
+        ],
+        "keywords": [
+            "learn",
+            "course",
+            "study",
+            "education"
+        ]
+    },
+    "Travel": {
+        "descriptions": [
+            "travel booking website",
+            "maps",
+            "travel planning interface"
+        ],
+        "keywords": [
+            "travel",
+            "booking",
+            "ticket",
+            "destination"
+        ]
+    },
+    "Entertainment": {
+        "descriptions": [
+            "streaming platform",
+            "game interface",
+            "media website"
+        ],
+        "keywords": [
+            "netflix",
+            "youtube",
+            "game",
+            "movie"
+        ]
+    },
+    "E-commerce": {
+        "descriptions": [
+            "online shopping website",
+            "product page",
+            "marketplace"
+        ],
+        "keywords": [
+            "shop",
+            "buy",
+            "product",
+            "cart"
+        ]
+    },
+    "Social Media": {
+        "descriptions": [
+            "social network interface",
+            "messaging platform",
+            "social app"
+        ],
+        "keywords": [
+            "facebook",
+            "twitter",
+            "instagram",
+            "chat"
+        ]
+    },
+    "News": {
+        "descriptions": [
+            "news website",
+            "online newspaper",
+            "news article"
+        ],
+        "keywords": [
+            "news",
+            "article",
+            "headline",
+            "report"
+        ]
+    },
+    "Productivity": {
+        "descriptions": [
+            "task management",
+            "project tracking",
+            "productivity tool"
+        ],
+        "keywords": [
+            "todo",
+            "task",
+            "project",
+            "management"
+        ]
+    }
+}
